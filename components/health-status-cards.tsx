@@ -67,7 +67,7 @@ export function HealthStatusCards() {
       <div className="text-right mt-3">
         <button
           className="text-xs hover:opacity-80 transition-colors duration-200 cursor-pointer"
-          style={{ color: "#272666" }}
+          style={{ color: "#272666" ,fontWeight:'500'}}
         >
           Details →
         </button>
